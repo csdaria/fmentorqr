@@ -13,7 +13,7 @@
 body {
     font-family: 'Outfit', sans-serif;
     font-size: 15px;
-    background-color: var(--grayishBlue);
+    background-color: var(--lightGray);
 
 }
 
@@ -50,6 +50,11 @@ img {
     color: var(--grayishBlue);
     margin-top: 1rem;
     font-size: 1.3rem;
+}
+
+.attribution {
+    font-size: 0.7rem;
+    margin-top: 1rem;
 }
 
 @media screen {
